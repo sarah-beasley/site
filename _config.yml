@@ -8,7 +8,7 @@ title: general.site_title
 url: ""
 environment: staging
 
-remote_data_prefix: "https://sarah-beasley.github.io/data/"
+remote_data_prefix: "https://sustainabledevelopment-sarahb.github.io/sdg-data/"
 
 # Pages
 collections:
