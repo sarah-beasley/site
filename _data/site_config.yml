@@ -209,6 +209,8 @@ menu:
   - path: /news
     translation_key: menu.updates
     dropdown: []
+  - path: my-example-page/
+    translation_key: My menu item
 metadata_edit_url: metadata
 metadata_tabs:
   - scope: national
